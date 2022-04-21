@@ -1,0 +1,65 @@
+.mainContent {
+    margin-top: 120px;
+    width: 100%;
+}
+
+.inpuImg {
+    background-color: #F6F5F4;
+    height: 347px;
+    width: 700px;
+    position: relative;
+    border-radius: 5px;
+}
+
+.formLogoImg {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 30%;
+}
+
+.uploadImg {
+    display: none;
+}
+
+.formInput {
+    width: 100%;
+}
+
+/* .formInput {} */
+.textTitle {
+    border: none;
+    width: 700px;
+    height: 50px;
+    margin: 20px 0px 20px 0px;
+    border-radius: 5px;
+    background-color: #F6F5F4;
+}
+
+.uploadVideo {
+    border: none;
+    width: 700px;
+    height: 50px;
+    margin: 20px 0px 20px 0px;
+    border-radius: 5px;
+    background-color: #F6F5F4;
+}
+
+.textIngredients {
+    border: none;
+    height: 347px;
+    width: 700px;
+    border-radius: 5px;
+    background-color: #F6F5F4;
+    align-content: left;
+}
+
+.buttonSubmit {
+    border: none;
+    width: 250px;
+    height: 40px;
+    background-color: #EFC81A;
+    margin: 50px 0px 50px 0px;
+    border-radius: 5px;
+    color: white;
+}
